@@ -9,8 +9,6 @@ List team members and/or short bio's here...
 
 * Hi, I'm Trung. I love COMP 1800. I'm looking forward to seeing the final outcome
 * Hi, I'm Jun. I'love comp 1800.
-
-=======
 * Hi, I'm Trung. I love COMP 1800
 * Hi, I'm Jun. I love comp 1800. I love video games.
 
